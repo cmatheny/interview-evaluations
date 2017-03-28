@@ -66,5 +66,3 @@ nbactions.xml
 /keyrings/live/secring.gpg
 /k8s/secrets/evaluations-database.yaml
 
-# Postgres
-pgdata/
